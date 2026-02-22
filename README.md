@@ -37,18 +37,19 @@ Download Python 3.10+ from [Python Official Website](https://www.python.org/down
 
 2. Clone the repository:
    
-cmd
-  git clone https://github.com/arpitapatil03/Text_Emotion_Detection.git
-  cd Text_Emotion_Detection
+cmd 
+
+    git clone https://github.com/arpitapatil03/Text_Emotion_Detection.git
+    cd Text_Emotion_Detection
 
 3.Install dependencies:
 
-  pip install -r requirements.txt
+      pip install -r requirements.txt
 
 4.Run the Streamlit app:
 
-  streamlit run app.py
+       streamlit run app.py
   
 5.Open the app in your browser:
     
-  Go to: http://localhost:8501
+      Go to: http://localhost:8501

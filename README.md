@@ -1,4 +1,4 @@
-*Text Emotion Detection Project
+*Text Emotion Detection Project-
 
 Text Emotion Detection is a web app that predicts the emotion of a text and shows the corresponding emoji.  
 It works in real-time using machine learning models.  

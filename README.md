@@ -4,7 +4,7 @@ Text Emotion Detection is a web app that predicts the emotion of a text and show
 It works in real-time using machine learning models.  
 Built with python ,scikit-learn, and Streamlit.
 
-	Technologies Used-
+*	Technologies Used-
 
  -Python– Programming language  
 - scikit-learn– Machine learning models: Logistic Regression, SVM ,Random Forest 
@@ -14,7 +14,7 @@ Built with python ,scikit-learn, and Streamlit.
 - Altair – Visualization of probabilities  
 - NeatText– Text cleaning
 
-	Features-
+* Features-
 
 - Detects emotions: `anger`, `disgust`, `fear`, `happy`, `joy`, `neutral`, `sad`, `shame`, `surprise`  
 - Shows  emoji corresponding to detected emotion  
